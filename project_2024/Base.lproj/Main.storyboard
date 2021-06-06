@@ -197,6 +197,9 @@
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="Ruv-sW-roQ"/>
+                    <connections>
+                        <outlet property="gameView" destination="chV-VX-vR4" id="IrH-fP-MFn"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="O0C-w6-mei" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
